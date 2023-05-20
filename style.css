@@ -40,6 +40,7 @@ input{
     height: 5vw;
     padding: 20px;
     border-radius: 10px;
+     border: none;
 }
 #btn{
   width: 10vw;
